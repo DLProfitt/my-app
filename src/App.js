@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './quacktice-test-icon.png';
 import './App.css';
 
 function App() {
@@ -6,8 +6,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h1> QuackticeTest</h1>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Wing It On!
         </p>
         <a
           className="App-link"
@@ -15,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Start Quackticing
         </a>
       </header>
     </div>
@@ -23,3 +24,4 @@ function App() {
 }
 
 export default App;
+
